@@ -1,56 +1,61 @@
-# Setup
+# Week 2 (11/09/23): Environment Setup and Configuration
 
-This section documents your practical work in week 2.
+## Environment Configuration
 
-The main requirements are to show that:
+### Development Environment Setup
 
-1. Your development environment is correctly set up
-2. You understand the setup including potential alternative configuration settings
+In week 2, I focused on setting up my development environment to ensure it was correctly configured for the course's collaborative requirements. This involved several key tasks, which I've documented below.
 
-## Environment configuration
+#### Task 1: Creating a Shared GitHub Repository with the Team
 
-Here, you should include appropriate screenshots with additional commentary. 
+- **Screenshot:** ![Screenshot 1](./images/screenshot1.png)
+  
+  This screenshot shows our team's shared GitHub repository. It was essential to establish this repository to centralize our project work and collaborate efficiently.
 
-**DO**
+- **Commentary:** The screenshot displays our shared repository's main page. This repository is where our team will store and manage all project-related code, documentation, and issues. It acts as a centralized hub for our collaboration.
 
-* Place your image files in the `images` folder
-* Choose your screenshots carefully so that they communicate the appropriate information.
-  Many screenshots with no clear purpose or with trivial differences are of little value.
-* Provide <ins>descriptive</ins> commentary to explain why the screenshot is included. 
-  what it shows and point out any particularly significant details.
-* Modify your screenshots - for example, by adding arrows, outlines or other highlighting 
-  techniques - to enhance their communication value.
-* Remove unnecessary material from your screenshots such as toolbars, other windows and 
-  computer desktop to eliminate distractions.
-* Ensure that any important content is clearly legible. Pay particular attention to text
-  size and image resolution.
-* Use [numbered captions](https://towardsdev.com/3-ways-to-add-a-caption-to-an-image-using-markdown-f2ca30562be6) 
-  as labels for images. Also, use the caption numbers to refer to images in your text.
+#### Task 2: Setting up a Project in GitHub with an Integrated Task Board
 
-**DON'T**
+- **Screenshot:** ![Screenshot 2](./images/screenshot2.png)
+  
+  This screenshot showcases our GitHub project board, created to track and manage tasks during the project's development.
 
-* Expect the reader to understand your reasons for including a screenshot. If you can't
-  explain it, the screenshot will not do the job on its own.
-* Include self-evident comments. For example, don't simply list the values used on a
-  configuration page if those values are clearly visible in the screenshot.
+- **Commentary:** We utilized GitHub Projects to create a project board that provides an organized view of our tasks. This board helps us visualize our workflow, assign tasks, and monitor progress throughout the course.
 
-## Reflection
+#### Task 3: Configuring a Personal Copy of Visual Studio
 
-For this section, decide what points are worth making and structure your content 
-appropriately.
+- **Screenshot:** ![Screenshot 3](./images/screenshot3.png)
+  
+  This screenshot exhibits my personalized Visual Studio IDE configuration.
 
-**DO**
+- **Commentary:** Configuring Visual Studio was crucial to ensure a consistent development environment across the team. This screenshot highlights my chosen settings, extensions, and themes, tailored to maximize productivity.
 
-* Use sub-headings to differentiate between sections
-* Provide <ins>reflective</ins> commentary that discusses, for example, limitations of
-  your current configuration, how your configuration is appropriate for the current 
-  project, alternative configuration that might be appropriate in ther circumstances, 
-  etc.
-* Mention any difficulties you had setting up your working environment and how you 
-  resolved them
+#### Task 4: Cloning the Shared Repository
 
-**DON'T**
+- **Screenshot:** ![Screenshot 4](./images/screenshot4.png)
+  
+  This screenshot illustrates the process of cloning our shared GitHub repository to my local machine.
 
-* Repeat the descriptive commentary from point 1
-* Give a blow-by-blow account of everything you did. Instead, you should highlight 
-  the important points.
+- **Commentary:** Cloning the repository locally is an essential step to access, modify, and contribute to our project. This screenshot captures the moment I initiated the clone operation.
+
+### Reflection
+
+Setting up the development environment and configuring GitHub were essential steps to kickstart our collaborative project. Here, I reflect on my experience and discuss some key points:
+
+#### Limitations and Challenges
+
+During the setup process, we faced some challenges, such as synchronizing our IDE configurations and resolving merge conflicts in the shared repository. These challenges taught us valuable lessons about version control and collaboration.
+
+#### Appropriateness of Configuration
+
+Our chosen development environment configuration, including Visual Studio and GitHub, aligns well with the project's requirements. It promotes a seamless workflow and ensures that all team members are on the same page.
+
+#### Alternative Configurations
+
+While our current setup is suitable for this project, different projects may require alternative configurations. For instance, a web development project may benefit from a different set of IDE extensions and tools.
+
+#### Resolution of Difficulties
+
+We successfully resolved most of the challenges we encountered during setup through effective communication and collaboration within the team. This experience highlighted the importance of teamwork and adaptability.
+
+In conclusion, week 2's focus on environment setup and configuration has laid a solid foundation for our collaborative project. It has equipped us with the tools and knowledge needed to work efficiently as a team. Moving forward, we are well-prepared to tackle the project's technical challenges and deliver high-quality results.
