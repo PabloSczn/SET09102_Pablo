@@ -9,7 +9,9 @@ In week 2, I focused on setting up my development environment to ensure it was c
 #### Task 1: Creating a Shared GitHub Repository with the Team
 
 - **Screenshot:** ![Screenshot 1](./images/TeamGithubRepo.png)
+  <figcaption align = "center"><b>Fig.1 Shared GitHub repository</b></figcaption>
   
+  <br>
   This screenshot shows our team's shared GitHub repository. It was essential to establish this repository to centralize our project work and collaborate efficiently.
 
 - **Commentary:** The screenshot displays our shared repository's main page. This repository is where our team will store and manage all project-related code, documentation, and issues. It acts as a centralized hub for our collaboration.
@@ -17,7 +19,9 @@ In week 2, I focused on setting up my development environment to ensure it was c
 #### Task 2: Setting up a Project in GitHub with an Integrated Task Board
 
 - **Screenshot:** ![Screenshot 2](./images/TeamTaskBoard.png)
+  <figcaption align = "center"><b>Fig.2 GitHub Integrated Task Board</b></figcaption>
   
+  <br>
   This screenshot showcases our GitHub project board, created to track and manage tasks during the project's development.
 
 - **Commentary:** We utilized GitHub Projects to create a project board that provides an organized view of our tasks. This board helps us visualize our workflow, assign tasks, and monitor progress throughout the course.
@@ -25,6 +29,9 @@ In week 2, I focused on setting up my development environment to ensure it was c
 #### Task 3 & 4: Configuring Visual Studio
 
 - **Screenshot:** ![Screenshot 3](./images/VisualStudio.png)
+  <figcaption align = "center"><b>Fig.3 Visual Studio with Repo configured</b></figcaption>
+  
+  <br>
   
   This screenshot exhibits my personalized Visual Studio IDE configuration.
 
