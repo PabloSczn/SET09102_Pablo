@@ -8,7 +8,7 @@ In week 2, I focused on setting up my development environment to ensure it was c
 
 #### Task 1: Creating a Shared GitHub Repository with the Team
 
-- **Screenshot:** ![Screenshot 1](./images/screenshot1.png)
+- **Screenshot:** ![Screenshot 1](./images/TeamGithubRepo.png)
   
   This screenshot shows our team's shared GitHub repository. It was essential to establish this repository to centralize our project work and collaborate efficiently.
 
@@ -16,27 +16,21 @@ In week 2, I focused on setting up my development environment to ensure it was c
 
 #### Task 2: Setting up a Project in GitHub with an Integrated Task Board
 
-- **Screenshot:** ![Screenshot 2](./images/screenshot2.png)
+- **Screenshot:** ![Screenshot 2](./images/TeamTaskBoard.png)
   
   This screenshot showcases our GitHub project board, created to track and manage tasks during the project's development.
 
 - **Commentary:** We utilized GitHub Projects to create a project board that provides an organized view of our tasks. This board helps us visualize our workflow, assign tasks, and monitor progress throughout the course.
 
-#### Task 3: Configuring a Personal Copy of Visual Studio
+#### Task 3 & 4: Configuring Visual Studio
 
-- **Screenshot:** ![Screenshot 3](./images/screenshot3.png)
+- **Screenshot:** ![Screenshot 3](./images/VisualStudio.png)
   
   This screenshot exhibits my personalized Visual Studio IDE configuration.
 
-- **Commentary:** Configuring Visual Studio was crucial to ensure a consistent development environment across the team. This screenshot highlights my chosen settings, extensions, and themes, tailored to maximize productivity.
+- **Configuration:** Configuring Visual Studio was crucial to ensure a consistent development environment across the team. This screenshot highlights my chosen settings, extensions, and themes, tailored to maximize productivity.
 
-#### Task 4: Cloning the Shared Repository
-
-- **Screenshot:** ![Screenshot 4](./images/screenshot4.png)
-  
-  This screenshot illustrates the process of cloning our shared GitHub repository to my local machine.
-
-- **Commentary:** Cloning the repository locally is an essential step to access, modify, and contribute to our project. This screenshot captures the moment I initiated the clone operation.
+- **Cloning:** Cloning the repository locally is an essential step to access, modify, and contribute to our project. This screenshot captures the moment I initiated the clone operation.
 
 ### Reflection
 
