@@ -60,3 +60,15 @@ While our current setup is suitable for this project, different projects may req
 We successfully resolved most of the challenges we encountered during setup through effective communication and collaboration within the team. This experience highlighted the importance of teamwork and adaptability.
 
 In conclusion, week 2's focus on environment setup and configuration has laid a solid foundation for our collaborative project. It has equipped us with the tools and knowledge needed to work efficiently as a team. Moving forward, we are well-prepared to tackle the project's technical challenges and deliver high-quality results.
+
+
+### Entry Submission
+
+#### Converting md file to PDF
+
+In order to submit this entry, I am converting this md file to PDF with the help of NPM.
+As this Markdown has images, I have used the markdown-pdf package to convert this file to pdf
+```
+npm install -g markdown-pdf
+markdown-pdf week2_setup.md
+```
