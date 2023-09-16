@@ -45,15 +45,19 @@ Setting up the development environment and configuring GitHub were essential ste
 
 #### Limitations and Challenges
 
-During the setup process, we faced some challenges, such as synchronizing our IDE configurations and resolving merge conflicts in the shared repository. These challenges taught us valuable lessons about version control and collaboration.
+During the setup process, we faced some challenges. It took us a while to understand all the tasks and to ensure that everyone was on the
+same page. Additionally, we faced a challenge when synchronising our IDE configurations. These challenges taught us valuable lessons
+about collaboration and helped us to know each other.
 
 #### Appropriateness of Configuration
 
-Our chosen development environment configuration, including Visual Studio and GitHub, aligns well with the project's requirements. It promotes a seamless workflow and ensures that all team members are on the same page.
+We managed to create a desirable environment configuration, including Visual Studio and GitHub, which aligns with the project's
+requirements. It also promotes a seamless workflow and ensures all team members are on the same page.
 
 #### Alternative Configurations
 
-While our current setup is suitable for this project, different projects may require alternative configurations. For instance, a web development project may benefit from a different set of IDE extensions and tools.
+While our current setup is suitable for this project, further tasks could require further configurations. Therefore, we have come as a team to
+understand how each of us works and how we can improve our resilience during the course of the module.
 
 #### Resolution of Difficulties
 
