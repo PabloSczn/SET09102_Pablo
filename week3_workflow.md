@@ -2,7 +2,7 @@
 
 ## Workflow
 
-In this week's entry, I will document my practical work in mastering GitHub's workflow tools as part of my coursework. The main objectives were to demonstrate my proficiency in utilizing GitHub's workflow tools and successfully executing the required operations, which include:
+In this week's entry, I will document my practical work in mastering GitHub's workflow tools as part of my coursework. The main objectives were to demonstrate my ability inusing GitHub's workflow tools and successfully executing this week's tasks, which include:
 
 - Accepting a task from the project backlog
 - Updating task information appropriately
@@ -33,6 +33,7 @@ As explained in my last entry, the Backlog is made in Github Projects
 I ensured that the task's details were up to date and relevant to my work. This involved clarifying the objectives and expectations for the task.
 
 ![Task Update](images/task_update.png)
+<br>
 *Figure 3: Updating Task Information*
 
 **4. Task Board Management**
