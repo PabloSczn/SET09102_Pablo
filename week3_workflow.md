@@ -61,7 +61,7 @@ After some development, I reviewed my work against the Definition of Done (DoD) 
 For this practical, I familiarised myself with C# and .NET MAUI. For that, I did a couple of tutorials, which helped me to understand the task. The tutorials can be found in the following links
 * [Getting started](https://learn.microsoft.com/en-us/dotnet/maui/tutorials/notes-app/)
 * [Adding a databse](https://learn.microsoft.com/en-us/dotnet/maui/data-cloud/database-sqlite)
-<br>
+
 ![Tutorial App](images/first_app.png)
 <br>
 *Figure 6: My first .NET MAUI app* 
