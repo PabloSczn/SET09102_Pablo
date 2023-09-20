@@ -1,4 +1,4 @@
-# Week 1: GitHub Workflow Mastery
+# Week 3: GitHub Workflow Mastery
 
 ## Workflow
 
