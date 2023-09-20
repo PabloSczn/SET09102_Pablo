@@ -8,9 +8,8 @@ In this week's entry, I will document my practical work in mastering GitHub's wo
 - Updating task information appropriately
 - Maintaining the task board accordingly
 - Completing development tasks on feature branches
-- Committing changes with meaningful comments
 - Validating work against the Definition of Done (DoD)
-- Creating a pull request
+
 
 ### Task Workflow
 
@@ -42,6 +41,7 @@ I actively participated in maintaining the task board by moving the selected tas
 I created a feature branch specifically for this task, allowing me to isolate my work from the main codebase while working on the SQLite database integration.
 
 ![Feature Branch](images/feature_branch.png)
+<br>
 *Figure 4: Feature Branch Creation*
 
 
