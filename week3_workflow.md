@@ -34,7 +34,7 @@ I ensured that the task's details were up to date and relevant to my work. This 
 I actively participated in maintaining the task board by moving the selected task to the "In Development" column to signal that I had started working on it.
 
 ![Task Board Update](images/task_board_update.png)
-
+<br>
 *Figure 3: Task Board Update*
 
 **4. Completing Development Tasks on Feature Branches**

@@ -6,3 +6,4 @@ Welcome to my portfolio repository! This repository showcases my work throughout
 ## Contents
 
 1. [Setup (Week 2)](week2_setup.md)
+2. [Workflow (Week 3)](week3_workflow.md)
