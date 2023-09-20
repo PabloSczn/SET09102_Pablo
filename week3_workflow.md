@@ -1,4 +1,4 @@
-# Week 3: GitHub Workflow Mastery
+# Week 3: Workflow
 
 ## Workflow
 
@@ -28,7 +28,6 @@ To begin, we decided as a team a standard workflow which everyone should follow 
 
 ![Workflow Preview](images/team_workflow_preview.png)
 *Figure 2: Team Workflow Preview*
-
 
 **2. Accepting a Task from the Project Backlog**
 
