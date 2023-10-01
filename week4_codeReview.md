@@ -72,6 +72,8 @@ class Department
 ### Analysis
 As mentioned, the initial code exhibited the "Middle Man" code smell, where the Person class acted as an unnecessary intermediary. I, therefore, eliminated the Person class as a middleman and directly instantiated a Department object to get the manager. This simplifies the code, removes unnecessary complexity, and adheres to the principle of avoiding middleman classes when they don't add value.
 
+I believe it is safe to say then, that with my fix, it's now clear that we're getting the manager directly from the `Department` class. There are fewer unnecessary steps and objects involved, enhancing the code's clarity and readability.
+
 ![Middle Man](images/middle_man.png)
 <br>
 
