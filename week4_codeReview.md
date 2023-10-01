@@ -2,7 +2,7 @@
 
 ## Code Review Challenge
 
-For this week's portfolio entry, I chose to review the code 'The Big Boss', a code snippet that exhibited the "Middle Man" code smell. 
+For this week's portfolio entry, I chose to review the code 'The Boss', a code snippet that exhibited the "Middle Man" code smell. 
 
 In the initial code, the `Person` class acted as a middleman, merely delegating the `GetManager` call to the `Department` class. 
 
