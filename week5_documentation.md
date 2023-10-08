@@ -1,4 +1,4 @@
-# Clean Code & Documentation - Week 5
+# Week 5: Clean Code & Documentation
 
 ## Background
 As specified during Week 3, I have coded one of the task of the team's project backlog and I have refined it, with comments and further enhancements. <br>
@@ -309,7 +309,7 @@ Additionally, I worked on making my code so clear that it did not need a huge am
 
 There were some challenges, like learning how to use Doxygen, but I saw them as opportunities to learn and grow.
 
-### Module-specific challenges
+### **Module-specific challenges**
 
 During these weeks, I have found some challenges with the Submission. I found that following the instructions for converting markdown files to PDF from the [module's repository](https://github.com/edinburgh-napier/SET09102/blob/main/assessment/portfolio.md), the resulting PDF file was cramped with Github Logos and links
 
