@@ -86,7 +86,7 @@ namespace Undac.Data
 
 ```
 
-This is the code for the UndacDatabase class, which I modified the most, in order to manage 'RotaType' objects using SQLite.
+This is the code for the `UndacDatabase` class, which I modified the most, in order to manage 'RotaType' objects using SQLite.
 
 ## Rules of Clean Code
 
@@ -349,6 +349,7 @@ The best solution I found was an extension on [Visual Studio Code](https://code.
 
 
 Finally, it is worth noting that, although it has taken me a few weeks to understand the requirements for the entries, I strongly believe that this entry is a demonstration that I have taken into account the **feedback from the lectures**, which have been crucial in understanding how I can improve my work.
+You can also find this week's entry in my [Github profile](https://github.com/PabloSczn/SET09102_Pablo/blob/main/week5_documentation.md)
 
 
 ## References
