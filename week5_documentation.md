@@ -27,7 +27,7 @@ My changes were significant to the Group Project, as I added and modified variou
 ## The code
 In this week's portfolio entry, I will reflect on my progress in applying clean code principles and improving code documentation within my code. 
 
-On this entry, I will summarise six clean code rules, and explain how I've implemented these rules effectively. Furthermore, I'll showcase the generated Doxygen documentation.
+On this entry, I will summarise six clean code rules, and explain how I have implemented these rules effectively. Furthermore, I will showcase the generated Doxygen documentation.
 
 But before diving into the details, let's have a look at the code I will be reviewing.
 
@@ -310,6 +310,45 @@ Additionally, I worked on making my code so clear that it did not need a huge am
 There were some challenges, like learning how to use Doxygen, but I saw them as opportunities to learn and grow.
 
 ### Module-specific challenges
+
+During these weeks, I have found some challenges with the Submission. I found that following the instructions for converting markdown files to PDF from the [module's repository](https://github.com/edinburgh-napier/SET09102/blob/main/assessment/portfolio.md), the resulting PDF file was cramped with Github Logos and links
+
+![Md to PDF Module Repo Instructions](images/mdToPdfModuleRepo.png)
+<br>
+
+*Figure 14: Instructions on the module's GitHub repo to convert from md to PDF.*
+<br>
+
+![Md to PDF Module Repo Output](images/mdToPdfModuleRepoOutput.png)
+<br>
+
+*Figure 15: PDF output from following steps in Figure 14.*
+<br>
+
+Although this is not necessarily a problem, I noticed that by doing this, the plagiarism checker in Moodle, saw this as plagiarised fragments, which I am not comfortable with, as these entries are entirely my work
+![PDF Output TurnitIn](images/PDFOutputTurnitin.png)
+<br>
+
+*Figure 16: TurnitIn highlighting GitHub links as plagiarised.*
+<br>
+
+Therefore, to fix this, I researched another way of creating a PDF file from this markdown file.
+The best solution I found was an extension on [Visual Studio Code](https://code.visualstudio.com/), the tool that I use to write these entries. The extension is called 'Custom MD PDF', and it allows me to convert md files to PDF easily.
+
+![Custom MD PDF Extension](images/customMdPdf.png)
+<br>
+
+*Figure 17: 'Custom MD PDF' VS Code extension.*
+<br>
+
+![Custom MD PDF Extension](images/mdToPDfExtensionUse.png)
+<br>
+
+*Figure 18: Converting md to PDF with the extension.*
+<br>
+
+
+Finally, it is worth noting that, although it has taken me a few weeks to understand the requirements for the entries, I strongly believe that this entry is a demonstration that I have taken into account the **feedback from the lectures**, which have been crucial in understanding how I can improve my work.
 
 
 ## References
