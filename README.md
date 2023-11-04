@@ -11,3 +11,4 @@ Welcome to my portfolio repository! This repository showcases my work throughout
 4. [Clean Code & Documentation (Week 5)](week5_documentation.md)
 5. [Testing (Week 6)](week6_testing.md)
 6. [Project Work 01 (Week 8)](week8_project.md)
+7. [Project Work 02 (Week 9)](week9_project.md)
