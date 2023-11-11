@@ -12,3 +12,4 @@ Welcome to my portfolio repository! This repository showcases my work throughout
 5. [Testing (Week 6)](week6_testing.md)
 6. [Project Work 01 (Week 8)](week8_project.md)
 7. [Project Work 02 (Week 9)](week9_project.md)
+8. [Project Work 03 (Week 10)](week9_project.md)
