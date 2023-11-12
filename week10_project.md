@@ -88,8 +88,8 @@ The implementation allows users to perform dynamic searches on Team Partners, me
     {
         if (!string.IsNullOrWhiteSpace(FullTextSearchBar.Text))
         {
-            string skillFilter = FullTextSearchBar.Text.ToLower();
-            allTeamPartners = allTeamPartners.Where(teamPartner => teamPartner.Name.ToLower().Contains(skillFilter)).ToList();
+            string nameFilter = FullTextSearchBar.Text.ToLower();
+            allTeamPartners = allTeamPartners.Where(teamPartner => teamPartner.Name.ToLower().Contains(nameFilter)).ToList();
         }
 
         return allTeamPartners;
