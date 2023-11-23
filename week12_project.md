@@ -137,5 +137,3 @@ Last week, I worked on addressing the end user and business goals related to ope
 
 - [MVVM Documentation](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/enterprise-application-patterns/mvvm)
 - [Dependency Injection in MAUI](https://docs.microsoft.com/en-us/dotnet/maui/dependency-injection)
-- [UndacDatabase Repository](https://github.com/yourusername/yourrepository/path/to/UndacDatabase.cs)
-- [AllOperationsPage View](https://github.com/yourusername/yourrepository/path/to/AllOperationsPage.cs)
