@@ -146,7 +146,7 @@ Implemented a set of tests to ensure the reliability and functionality of the co
 ## Code Reviews
 
 ### Code Review provided by me
-I reviewed the code submitted by one of my teammates, [Marco Vavassori](https://github.com/Vavuz) and I found some issues. Although the errors were minor, I made sure to include a comprehensive description and also a reference resource for my teammate to look at regarding [Naming conventions](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/capitalization-conventions?redirectedfrom=MSDN).
+I reviewed the code submitted by one of my teammates, [Marco Vavassori](https://github.com/Vavuz) and I found some issues. Although the errors were minor, I made sure to include a comprehensive description and also a reference resource for my teammate to look at regarding [Identifier naming rules & conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names).
 
 While reviewing his implementation, I also noticed a typo on his implementation, so I made sure to let him know.
 His Pull Request with my comments can be found [here](https://github.com/xinjoonha/SET09102_PURPLE/pull/91).
